@@ -3,9 +3,7 @@ import React, { Component } from 'react';
 import axios from "axios";
 import logo from './logo.svg';
 import './App.css';
-import Form from './components/Form';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ContentEditable from 'react-contenteditable';
 class App extends Component {
 
   constructor(){
