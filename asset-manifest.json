@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GigIndia/static/css/main.fbf8e498.chunk.css",
+    "main.js": "/GigIndia/static/js/main.bb1447ec.chunk.js",
+    "main.js.map": "/GigIndia/static/js/main.bb1447ec.chunk.js.map",
+    "runtime-main.js": "/GigIndia/static/js/runtime-main.6c2ab58d.js",
+    "runtime-main.js.map": "/GigIndia/static/js/runtime-main.6c2ab58d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/GigIndia/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0619afa5.chunk.js": "/GigIndia/static/js/2.0619afa5.chunk.js",
+    "static/js/2.0619afa5.chunk.js.map": "/GigIndia/static/js/2.0619afa5.chunk.js.map",
+    "index.html": "/GigIndia/index.html",
+    "precache-manifest.c905cf0036a65b2e891957b525de784b.js": "/GigIndia/precache-manifest.c905cf0036a65b2e891957b525de784b.js",
+    "service-worker.js": "/GigIndia/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/GigIndia/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fbf8e498.chunk.css.map": "/GigIndia/static/css/main.fbf8e498.chunk.css.map",
+    "static/js/2.0619afa5.chunk.js.LICENSE.txt": "/GigIndia/static/js/2.0619afa5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/GigIndia/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c2ab58d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0619afa5.chunk.js",
+    "static/css/main.fbf8e498.chunk.css",
+    "static/js/main.bb1447ec.chunk.js"
+  ]
+}
